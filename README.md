@@ -4,13 +4,13 @@
 <!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=About+Me;Self-taught+Developer" alt="Typing SVG" /> -->
 <!-- </p> -->
 </br>
- - 🏷️ ray
+ • 🏷️ ray
  </br>
- - 📅 18 y/o
+ • 📅 18 y/o
  </br>
- - 🏫 College Student
+ • 🏫 College Student
  </br>
- - 🗺️ United Kingdom
+ • 🗺️ United Kingdom
 </br>
 
 <h2 align="center">🛠️ Languages & Tools 🛠️</h2>
